@@ -66,8 +66,7 @@ console.log(strings)
 }
 elementoIndex(arrayOriginal)
 */
-//e.
-const arrayOriginal = [6, 9, 13, 16, 18, 21]
+/*e.
 const devolveMaiorMenor = (arrayOriginal) => {
   let maiorNumero = 0
   let menorNumero = arrayOriginal[0]
@@ -82,3 +81,4 @@ for (let i = 0; i < arrayOriginal.length; i++) {
 console.log(`O maior número é ${maiorNumero} e o menor é ${menorNumero}`)
 }
 devolveMaiorMenor(arrayOriginal)
+*/
